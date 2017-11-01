@@ -1,4 +1,4 @@
-angular.module('forWheels',[]).component('cars',{
+angular.module('fourWheels').component('cars',{
   templateUrl: 'app/cars/cars.template.html',
   controllerAs: 'carsCtrl',
   controller: function(carsSrvc){
